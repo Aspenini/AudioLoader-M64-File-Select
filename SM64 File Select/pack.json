@@ -1,10 +1,8 @@
 {
-  "name": "SM64 File Select",
-  "description": "Adds Super Mario 64 file select music",
+  "name": "Mario 64 File Select",
   "author": "Aspenini",
   "version": "v1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "music": true,
   "ignore": [],
-  "mappings": {}
 }
