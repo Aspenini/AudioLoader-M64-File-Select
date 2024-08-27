@@ -1,8 +1,9 @@
 {
-  "name": "Mario 64 File Select",
+  "name": "SM64 File Select",
+  "description": "The on on the SM64 file select screen. Sound provided by https://www.youtube.com/watch?v=fHz9XczJjEA.",
   "author": "Aspenini",
   "version": "v1.0",
   "manifest_version": 1,
   "music": true,
-  "ignore": [],
+  "ignore": []
 }
